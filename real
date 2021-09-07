@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+
+distro = input("What distro do you use?")
+print('lol stfu nerd you litterally use', distro, 'get good and use slackware')
