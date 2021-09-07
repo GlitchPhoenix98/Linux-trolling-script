@@ -11,3 +11,4 @@ This will start the script in the terminal! Try to distribute this script to you
 (Is this dumb? Yes. Is it pointless? Yes. But hey! I have to start somewhere.)
 
 WARNING: THIS MAY DESTROY THE EGOS OF ARCH ELITISTS.
+WARNING 2: This script is basically pointless if the person you send this to opens the script using a text editor. Oh well!
