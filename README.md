@@ -1,14 +1,4 @@
-# Linux-trolling-script
-A python script to troll your friends that use linux! 
-
-Instructions: 
-
-Open the terminal where the python file is located/cd into it, and do the following:
-./real
-
-This will start the script in the terminal! Try to distribute this script to your friends without telling them what the script does!
-
-(Is this dumb? Yes. Is it pointless? Yes. But hey! I have to start somewhere.)
-
-WARNING: THIS MAY DESTROY THE EGOS OF ARCH ELITISTS.
-WARNING 2: This script is basically pointless if the person you send this to opens the script using a text editor. Oh well!
+# Linux gamer script
+this boosts the self esteem of a linux user
+this is pointless if they open it in mousepad or vim or nano or vi or ok
+original script by eltolete22
